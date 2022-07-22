@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b8b3f9dabcca004496e69cf27f28bf5, type: 3}
+  m_Name: SpawnRandom_YellowBall
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 6157842366638803161, guid: 6de7f0b51f4ec9244ae0f6d4ae5f6c6a, type: 3}
+  count: 1
+  xPercentage: 1
+  yPercentage: 1
+  zPercentage: 1

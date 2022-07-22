@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36c2619bd4369cd4db1a5a05ac718b84, type: 3}
+  m_Name: SpawnOffset_RedBall
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 6157842366638803161, guid: ac1fbdc96e9459f4ba16ea6a42b6ac5c, type: 3}
+  offset: {x: 1.5, y: 0.5, z: 0}
